@@ -2,6 +2,6 @@
 Very Basic Pong Clone. I made this from scratch.
 
 
-32 bit .exe file of my pong clone. Similar to the Pacman clone, once the basic functionality was there I moved on to other projects.
+32 bit game with all the necessary dll / resource files. Should work fine as long as it's unzipped and only the .exe file is accessed. 
 
-Was a great learning tool. Enjoy.
+Stopped working on this as soon as the functionality was basically down. Moved on to bigger / better things. Enjoy
